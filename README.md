@@ -1,11 +1,18 @@
-#find-content-bigfile
+# find-content-bigfile
 
-![travis](https://travis-ci.org/rovaniemi/osm-graph-parser.svg?branch=master)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](http://thanhnghiacntt.com)
 
-##Required
-    jdk9
-##Run
-    java -jar find.jar -f pathFile -c content
+## Required
+```sh
+JDK9
+```
+## Run
+```sh
+java -jar find.jar -f pathFile -c content
+```
 
-##Example:
-	java -jar find.jar -f D:\OSM\vietnam_lastest.osm -c 366409384
+## Example:
+```sh
+java -jar find.jar -f D:\OSM\vietnam_lastest.osm -c 366409384
+```
+	
