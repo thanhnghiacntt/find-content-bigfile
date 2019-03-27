@@ -1,3 +1,4 @@
+Required jdk9
 Run
 java -jar find.jar -f pathFile -c content
 
